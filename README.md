@@ -1,4 +1,4 @@
-##Indian Economy and GDP Analysis
+Indian Economy and GDP Analysis
 
 A data analysis and visualization project focused on understanding India's economy and GDP growth using data wrangling, exploratory data analysis, machine learning, Excel, and Power BI.
 
